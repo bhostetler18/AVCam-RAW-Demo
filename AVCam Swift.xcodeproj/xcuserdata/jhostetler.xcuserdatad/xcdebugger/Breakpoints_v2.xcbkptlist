@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D70B1A6C-D44D-4D0A-B38A-75C5522BD5E3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92F0CEFA-0014-4D3D-B01C-41155420E8A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AVCam/CameraViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "654"
+            endingLineNumber = "654"
+            landmarkName = "capturePhoto(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92F0CEFA-0014-4D3D-B01C-41155420E8A3 - 8930765ddb7b342d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AVCam.CameraViewController.capturePhoto(__C.UIButton) -&gt; ()"
+                  moduleName = "AVCam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhostetler/Downloads/AVCamBuildingACameraApp/Swift/AVCam/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "660"
+                  endingLineNumber = "660"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "92F0CEFA-0014-4D3D-B01C-41155420E8A3 - 76d4f73427133d5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in AVCam.CameraViewController.capturePhoto(__C.UIButton) -&gt; ()"
+                  moduleName = "AVCam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhostetler/Downloads/AVCamBuildingACameraApp/Swift/AVCam/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "654"
+                  endingLineNumber = "654"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "92F0CEFA-0014-4D3D-B01C-41155420E8A3 - 650e52f514e2b19c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.UInt32) -&gt; Swift.Bool in closure #1 () -&gt; () in AVCam.CameraViewController.capturePhoto(__C.UIButton) -&gt; ()"
+                  moduleName = "AVCam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhostetler/Downloads/AVCamBuildingACameraApp/Swift/AVCam/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "655"
+                  endingLineNumber = "655"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA8F6D57-3A82-4A4B-A7FF-44E14E730B6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AVCam/CameraViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
